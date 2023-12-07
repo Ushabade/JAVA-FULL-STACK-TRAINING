@@ -1,0 +1,124 @@
+1) GIT :- 
+   ===
+
+      - git is a open source distributed version control system
+      - (The term open source refers to any program whose source code is made available for     use or modification as users or other developers see fit)
+      - used to track change the computer files/source code
+      - it is a software
+      - it is installed locally on system
+
+2) VERSION CONTROL SYSTEM:-
+   =======================
+   
+   - Version control system makes it eassy to identify the developer who mad the  changes  
+   - it is a collecction of software tools that helpsa team to work togetheron the same project
+   - allow them to manage changes to a file
+
+3) WHY GIT IS A DISTRIBUTED VERSION CONTROL SYSTEM:-
+   ===============================================
+                                       
+   Becouse the code not just stored in a central server but also stored in all developers computer who are involve in the project
+
+4) GITHUB:-
+   ======
+       -To store and manage the code
+       -it is a service
+       - it is hosted in the web
+
+5) VARIOUS GIT REPOSITORY HOSTING SERVICES:-
+   ========================================
+         -GIT HUB
+         -GITLAB
+         -BITBACKET
+         -GIT ENTERPRISE
+         -ASSEMBLA
+
+6) WHAT IS A GIT REPOSITORY:-
+   =========================
+
+            - Place where all the files are stored
+            - files can eithr stored local or remote repository
+            - which allow to access whenever needed
+
+7) GIT INIT:-
+   ========
+   
+            Initialize/create a repository
+
+  GIT CONFIG:-
+  ===========
+  
+            To configure a username and email address
+
+  GIT ADD:-
+  =======
+
+            to add one or more files in a staging area
+
+ GIT DIFF:-
+ ========
+
+            to view the changes made to the file
+
+ GIT COMMIT:-
+===========
+
+            to commit the changes
+
+git log:-
+=======
+
+           see the history for the current branches
+
+GIT STATUS:-
+===========
+
+           - Display the state of  working  directory
+           - display the info about untracked files
+           - help to understand what happening ur project
+
+GIT STASH:-
+=========
+
+          -The git stash command takes the current changes in your working directory (including staged changes) and saves them in a temporary area called the stash.
+          - The stash is like a stack, so you can stash changes multiple times,
+          - and they are stored in a last-in, first-out (LIFO) fashion  
+
+         
+
+8) WHAT ARE THE STATES OF FILE IN GIT:-
+   ==================================
+
+                       There are 3
+                      - MODIFIED
+                      - STAGED
+                      -COMMITTED
+
+9) WHAT IS STAGING AREA IN GIT:-
+   ===========================
+
+                WORKING DIRECTORY
+                      l
+                staging area
+                      l
+                repository
+
+10) WHAT IS GIT PULL AND GIT FETCH:-
+    ===============================
+
+                - git fetch just "downloads" the changes from the remote to your local repository. 
+                - git pull downloads the changes and merges them into your current branch. 
+
+
+11) DIFFERENCE BETWEEN GIT MERGE AND GIT REBASE:-
+    ===========================================
+ 
+                   - git merge is a way of combining changes from one branch (source branch) into another branch (target branch) 
+                   - where as git rebase is a way of moving the changes from one branch onto another branch.
+
+12) GIT BASH:-
+    ========
+
+         EXECUTE THHE GIT COMMANDS
+          
+ 
